@@ -12,8 +12,7 @@ Download the latest version from the [Releases](https://github.com/PetarStoev02/
 |----------|-------------|------|
 | macOS | Apple Silicon (M1/M2/M3) | [Talyx-arm64.dmg](https://github.com/PetarStoev02/talyx-releases/releases/latest/download/Talyx-arm64.dmg) |
 | macOS | Intel | [Talyx-x64.dmg](https://github.com/PetarStoev02/talyx-releases/releases/latest/download/Talyx-x64.dmg) |
-
-Windows support coming soon.
+| Windows | x64 | [Talyx-setup-x64.exe](https://github.com/PetarStoev02/talyx-releases/releases/latest/download/Talyx-setup-x64.exe) |
 
 ## First Launch
 
