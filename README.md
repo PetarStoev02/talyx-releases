@@ -1,4 +1,14 @@
-# Talyx Releases
+# Talyx
+
+**Talyx** — Tally & sort files easily. A cross-platform desktop app that sorts and organizes files using AI classification. Browse to a folder, drag & drop, or set up automatic watch folders — Talyx handles the rest.
+
+## Features
+
+- **AI-powered classification** — files are categorized by extension, metadata, content analysis, and filename patterns
+- **Copy or Move** — choose per operation, with full undo support
+- **Watch folders** — automatic sorting when new files appear
+- **Sort history** — timeline of all operations with batch undo
+- **Offline & private** — all processing runs locally, no cloud required
 
 > ⚠️ **Early Access** — Talyx is under active development. Expect rough edges and breaking changes between versions.
 
